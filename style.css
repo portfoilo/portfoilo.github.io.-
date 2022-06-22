@@ -42,17 +42,11 @@ h2 {
 h3{font-size: 25px;
 	 
 	}
-p{ text-align: left;
-    text-transform: none;
-    padding-left:50px ;
-        padding-right:50px ;
-
-}
+p{ text-transform: lowercase}
 h1,h2,p,li {
             padding-bottom: 1em; 
   
 }
-
 /* all text white */ 
 h1,h2,p,li {color:white}
 
